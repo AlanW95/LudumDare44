@@ -1,0 +1,2154 @@
+fileFormatVersion: 2
+guid: 69cceee0f4837e946ae70eae7104a5bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5389360382828532305
+    second: Tiles_NonColliding_0
+  - first:
+      213: -8174883127321618043
+    second: Tiles_NonColliding_1
+  - first:
+      213: 7482849869253174359
+    second: Tiles_NonColliding_2
+  - first:
+      213: 6189523785924434545
+    second: Tiles_NonColliding_3
+  - first:
+      213: 4128074535498631533
+    second: Tiles_NonColliding_4
+  - first:
+      213: -3112759568572616609
+    second: Tiles_NonColliding_5
+  - first:
+      213: -8374810542037691846
+    second: Tiles_NonColliding_6
+  - first:
+      213: -5271256985546609763
+    second: Tiles_NonColliding_7
+  - first:
+      213: -402292174583695946
+    second: Tiles_NonColliding_8
+  - first:
+      213: -6434395590527316052
+    second: Tiles_NonColliding_9
+  - first:
+      213: -5843893238281485910
+    second: Tiles_NonColliding_10
+  - first:
+      213: -1425154262529563095
+    second: Tiles_NonColliding_11
+  - first:
+      213: 3210202837680439344
+    second: Tiles_NonColliding_12
+  - first:
+      213: 5588718777796672686
+    second: Tiles_NonColliding_13
+  - first:
+      213: -6638297079835133134
+    second: Tiles_NonColliding_14
+  - first:
+      213: -1971781220806509836
+    second: Tiles_NonColliding_15
+  - first:
+      213: 2361624324829435884
+    second: Tiles_NonColliding_16
+  - first:
+      213: -5304510357865413486
+    second: Tiles_NonColliding_17
+  - first:
+      213: 8884318289350731702
+    second: Tiles_NonColliding_18
+  - first:
+      213: 6621078194544364007
+    second: Tiles_NonColliding_19
+  - first:
+      213: 7250093133908444409
+    second: Tiles_NonColliding_20
+  - first:
+      213: -3291793114497739236
+    second: Tiles_NonColliding_21
+  - first:
+      213: 8570432401251911353
+    second: Tiles_NonColliding_22
+  - first:
+      213: -4344633960815936058
+    second: Tiles_NonColliding_23
+  - first:
+      213: -6845840393481812947
+    second: Tiles_NonColliding_24
+  - first:
+      213: 8157752654159584960
+    second: Tiles_NonColliding_25
+  - first:
+      213: 6696870659476377048
+    second: Tiles_NonColliding_26
+  - first:
+      213: -2395873092981461011
+    second: Tiles_NonColliding_27
+  - first:
+      213: 3376574640521693856
+    second: Tiles_NonColliding_28
+  - first:
+      213: -5685297327970744250
+    second: Tiles_NonColliding_29
+  - first:
+      213: -9093183411469531524
+    second: Tiles_NonColliding_30
+  - first:
+      213: -746293290485431382
+    second: Tiles_NonColliding_31
+  - first:
+      213: -1935524544068903069
+    second: Tiles_NonColliding_32
+  - first:
+      213: -358659655096758986
+    second: Tiles_NonColliding_33
+  - first:
+      213: 5285458321441374103
+    second: Tiles_NonColliding_34
+  - first:
+      213: -1131983434505213427
+    second: Tiles_NonColliding_35
+  - first:
+      213: 2540278623831844726
+    second: Tiles_NonColliding_36
+  - first:
+      213: -1714140347244077891
+    second: Tiles_NonColliding_37
+  - first:
+      213: 125254292010535531
+    second: Tiles_NonColliding_38
+  - first:
+      213: -412159489804702982
+    second: Tiles_NonColliding_39
+  - first:
+      213: 3769540000045237127
+    second: Tiles_NonColliding_40
+  - first:
+      213: -4067624475791341119
+    second: Tiles_NonColliding_41
+  - first:
+      213: 273198407964253009
+    second: Tiles_NonColliding_42
+  - first:
+      213: 597200389019871390
+    second: Tiles_NonColliding_43
+  - first:
+      213: 6942767099654967018
+    second: Tiles_NonColliding_44
+  - first:
+      213: -2409961114697251887
+    second: Tiles_NonColliding_45
+  - first:
+      213: 2997308249733132597
+    second: Tiles_NonColliding_46
+  - first:
+      213: -5816608550257176113
+    second: Tiles_NonColliding_47
+  - first:
+      213: -7647388680042049134
+    second: Tiles_NonColliding_48
+  - first:
+      213: 1886620863232959296
+    second: Tiles_NonColliding_49
+  - first:
+      213: -1090940666189832364
+    second: Tiles_NonColliding_50
+  - first:
+      213: -1806807665854229147
+    second: Tiles_NonColliding_51
+  - first:
+      213: -8650108451005959111
+    second: Tiles_NonColliding_52
+  - first:
+      213: 3793577209379208344
+    second: Tiles_NonColliding_53
+  - first:
+      213: -1380488706840714911
+    second: Tiles_NonColliding_54
+  - first:
+      213: 318878296092035102
+    second: Tiles_NonColliding_55
+  - first:
+      213: 5304358031174737802
+    second: Tiles_NonColliding_56
+  - first:
+      213: -6628640234911151714
+    second: Tiles_NonColliding_57
+  - first:
+      213: -4579030652628290479
+    second: Tiles_NonColliding_58
+  - first:
+      213: 8355373680549421122
+    second: Tiles_NonColliding_59
+  - first:
+      213: -8779189455347704879
+    second: Tiles_NonColliding_60
+  - first:
+      213: 8756629885112634205
+    second: Tiles_NonColliding_61
+  - first:
+      213: -8427877016137617225
+    second: Tiles_NonColliding_62
+  - first:
+      213: 7468825416119324962
+    second: Tiles_NonColliding_63
+  - first:
+      213: 4176566023211596593
+    second: Tiles_NonColliding_64
+  - first:
+      213: -7955362380477296696
+    second: Tiles_NonColliding_65
+  - first:
+      213: 8283466000294109468
+    second: Tiles_NonColliding_66
+  - first:
+      213: -8718669574743036498
+    second: Tiles_NonColliding_67
+  - first:
+      213: -695893952446727381
+    second: Tiles_NonColliding_68
+  - first:
+      213: -8713299602813094139
+    second: Tiles_NonColliding_69
+  - first:
+      213: -5878460999168192356
+    second: Tiles_NonColliding_70
+  - first:
+      213: -6558517551324921508
+    second: Tiles_NonColliding_71
+  - first:
+      213: 6212249315639959520
+    second: Tiles_NonColliding_72
+  - first:
+      213: -4772032399184516094
+    second: Tiles_NonColliding_73
+  - first:
+      213: 8647925170361428653
+    second: Tiles_NonColliding_74
+  - first:
+      213: 4382470639831449810
+    second: Tiles_NonColliding_75
+  - first:
+      213: -5703062940649972088
+    second: Tiles_NonColliding_76
+  - first:
+      213: 3080033843882686710
+    second: Tiles_NonColliding_77
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles_NonColliding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be12f605f319dc4eb7391b5e410b419
+      internalID: -5389360382828532305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603fcae399370d34a9a1d1ee0eb45795
+      internalID: -8174883127321618043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e4ec4f8803aa247bf163f7944ac69e
+      internalID: 7482849869253174359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -5}
+        - {x: -3, y: -5}
+        - {x: -3, y: -6}
+        - {x: -2, y: -6}
+        - {x: -2, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: -5}
+        - {x: 3, y: -5}
+        - {x: 3, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -7}
+        - {x: 5, y: -7}
+        - {x: 5, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55c462963333d41873bad3aee363fb
+      internalID: 6189523785924434545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -4}
+        - {x: 5, y: -4}
+        - {x: 5, y: -3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -2}
+        - {x: 4, y: -2}
+        - {x: 4, y: -3}
+        - {x: 3, y: -3}
+        - {x: 3, y: -1}
+        - {x: 2, y: -1}
+        - {x: 2, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: -4}
+        - {x: 0, y: -4}
+        - {x: 0, y: -3}
+        - {x: -1, y: -3}
+        - {x: -1, y: -5}
+        - {x: -2, y: -5}
+        - {x: -2, y: -4}
+        - {x: -6, y: -4}
+        - {x: -6, y: -5}
+        - {x: -5, y: -5}
+        - {x: -5, y: -6}
+        - {x: -7, y: -6}
+        - {x: -7, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae815dda19c304c8fc157cb50fc616
+      internalID: 4128074535498631533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -8}
+        - {x: -7, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -4}
+        - {x: -7, y: -4}
+        - {x: -7, y: -3}
+        - {x: -4, y: -3}
+        - {x: -4, y: -1}
+        - {x: -5, y: -1}
+        - {x: -5, y: 1}
+        - {x: -3, y: 1}
+        - {x: -3, y: 0}
+        - {x: -2, y: 0}
+        - {x: -2, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: -3}
+        - {x: 1, y: -3}
+        - {x: 1, y: -1}
+        - {x: 0, y: -1}
+        - {x: 0, y: 3}
+        - {x: 1, y: 3}
+        - {x: 1, y: 4}
+        - {x: 0, y: 4}
+        - {x: 0, y: 6}
+        - {x: 1, y: 6}
+        - {x: 1, y: 8}
+        - {x: 2, y: 8}
+        - {x: 2, y: 3}
+        - {x: 3, y: 3}
+        - {x: 3, y: 1}
+        - {x: 2, y: 1}
+        - {x: 2, y: -2}
+        - {x: 3, y: -2}
+        - {x: 3, y: -3}
+        - {x: 2, y: -3}
+        - {x: 2, y: -5}
+        - {x: 4, y: -5}
+        - {x: 4, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -5}
+        - {x: 5, y: -5}
+        - {x: 5, y: -6}
+        - {x: 4, y: -6}
+        - {x: 4, y: -7}
+        - {x: 6, y: -7}
+        - {x: 6, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: -8}
+      - - {x: -3, y: -5}
+        - {x: -3, y: -4}
+        - {x: -4, y: -4}
+        - {x: -4, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: -5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db10b45a844ffa43a62c0c4295954ad
+      internalID: -3112759568572616609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -8}
+        - {x: -6, y: -7}
+        - {x: -6, y: -7}
+        - {x: -6, y: -6}
+        - {x: -5, y: -6}
+        - {x: -5, y: -5}
+        - {x: -4, y: -5}
+        - {x: -4, y: -4}
+        - {x: -3, y: -4}
+        - {x: -3, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: -2}
+        - {x: -1, y: -2}
+        - {x: -1, y: 0}
+        - {x: 0, y: 0}
+        - {x: 0, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: 1}
+        - {x: 2, y: 1}
+        - {x: 2, y: 2}
+        - {x: 3, y: 2}
+        - {x: 3, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 0}
+        - {x: 3, y: 0}
+        - {x: 3, y: -3}
+        - {x: 4, y: -3}
+        - {x: 4, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: -8}
+      - - {x: 8, y: -8}
+        - {x: 8, y: -7}
+        - {x: 8, y: -7}
+        - {x: 8, y: -8}
+      - - {x: -4, y: -7}
+        - {x: -4, y: -7}
+        - {x: -5, y: -7}
+        - {x: -5, y: -6}
+        - {x: -4, y: -6}
+      - - {x: -5, y: -7}
+        - {x: -5, y: -6}
+        - {x: -4, y: -6}
+        - {x: -4, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c6b82b1424f147adf375b84a564cd
+      internalID: -8374810542037691846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534cf768273180446b252475ad91abda
+      internalID: -5271256985546609763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71637d7627e6ff4cab2da1d1b122767
+      internalID: -402292174583695946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2436ce8ac12d42a71dba3f6efbdb1
+      internalID: -6434395590527316052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d38b72ebea0d0947a784ce307486bc7
+      internalID: -5843893238281485910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd34cc40935b93499ad6da2ae84a973
+      internalID: -1425154262529563095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb714bd80f84f47a479f0d4cfd66ab
+      internalID: 3210202837680439344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992146f9a3959c54fa89e0a779f38563
+      internalID: 5588718777796672686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace72118a3563f4e881b2f524482b52
+      internalID: -6638297079835133134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e7c5f2d0c81b4eac2a399848da266
+      internalID: -1971781220806509836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48b6ad7fbb7af41bdeada4151d15c1
+      internalID: 2361624324829435884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f007af4ff0823140aa84b8e3e034241
+      internalID: -5304510357865413486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d258b2b7e3c5a4783ca990c887b10c
+      internalID: 8884318289350731702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac748ccd9328c3743b876b9bee2cc53d
+      internalID: 6621078194544364007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21cb6aed8c5b22498f6f2fa6c3877c5
+      internalID: 7250093133908444409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a1237244932d4f871de7d265237b4
+      internalID: -3291793114497739236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da688b8b497054d9ebc8715b204177
+      internalID: 8570432401251911353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bee0df2bd0d3e4a9437ca12f80e27f
+      internalID: -4344633960815936058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e2931123e9424baa7e31d005acd63
+      internalID: -6845840393481812947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57142636e4484644aba2b9612ec5211
+      internalID: 8157752654159584960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e988f144338a41895cdecd9d728a8
+      internalID: 6696870659476377048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b020b25420b8468ed99598434b32b
+      internalID: -2395873092981461011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4358784326d8fe46ba6321d363deadb
+      internalID: 3376574640521693856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232a21f7ec8d994fb4ab681c81b42f5
+      internalID: -5685297327970744250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8517029c9399a4cb8c7833fd20af9f
+      internalID: -9093183411469531524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b1d02a96bd0c749b575d3cd375abc1
+      internalID: -746293290485431382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc04a9692d86d4dbb94e4a7d714b4d
+      internalID: -1935524544068903069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed454fb1b6122d64798e791d4fed4fe1
+      internalID: -358659655096758986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b6f6d217fe6f42961d1d452b4760e
+      internalID: 5285458321441374103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cec905bede94042905d2e7648e1463
+      internalID: -1131983434505213427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa10a6633650af45afa32304756bedf
+      internalID: 2540278623831844726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a6cdef37554e42b647e0d060e285a
+      internalID: -1714140347244077891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987d83a41b7123c499430ac52fa73cb5
+      internalID: 125254292010535531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa1c31d3ec4dc42952cef40adbdf8b
+      internalID: -412159489804702982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690de92ff2057fd47b96693deb211be1
+      internalID: 3769540000045237127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5a78edbb5ab384397da2f86c8cd274
+      internalID: -4067624475791341119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b230ee61cfd3fd498c1ab83b6f9fba8
+      internalID: 273198407964253009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdea132705bd9f4bb90f25381a7d3ac
+      internalID: 597200389019871390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a36b4218860e469a34e9e27c05177
+      internalID: 6942767099654967018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff6959e9d95a644a4f70d22814f0df
+      internalID: -2409961114697251887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39101c300c54f24b8476d4fe21b7e93
+      internalID: 2997308249733132597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf124f1f21948a94885aab378116afe3
+      internalID: -5816608550257176113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b657f9037330c4dae5cc8fa449a950
+      internalID: -7647388680042049134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3a5ed6845b8814faa77962aa96ab02
+      internalID: 1886620863232959296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c79a3b7d2a5834893ed4eba6c4f4a6
+      internalID: -1090940666189832364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9205123042624c97e4d5d70ff47bc
+      internalID: -1806807665854229147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf273935a2b5e4ebe40e8e1299f977
+      internalID: -8650108451005959111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8502deaf9284da4e955d9b8837a97f4
+      internalID: 3793577209379208344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c8aee6c9109dc4588de8f410acad59
+      internalID: -1380488706840714911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e229bf0fd435a4aaa4e3e1206e882f
+      internalID: 318878296092035102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feef203d20646f439d512abdc7636fa
+      internalID: 5304358031174737802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f3f7b42ba965c4f91dbcb8a7db9a9d
+      internalID: -6628640234911151714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38746bea98e458d4a80fbacd7e5ddc49
+      internalID: -4579030652628290479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1fa6d5946048a49ab089b98c197201
+      internalID: 8355373680549421122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4026ea3a43444ebd08ec650ba47f1
+      internalID: -8779189455347704879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e976c39c323db341b1b2e71bf08c54c
+      internalID: 8756629885112634205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc1089741c98942b403b889baf4f67
+      internalID: -8427877016137617225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e484430390a4b46b7b8bf55cdbaf5e
+      internalID: 7468825416119324962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d765fb5358f0144b6ddd69eaf8f642
+      internalID: 4176566023211596593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e147ffe045f344aa7081d1517166ea
+      internalID: -7955362380477296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab952cf9b563994e807383d3f92062e
+      internalID: 8283466000294109468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e986b55b1bf8a4789d8cbae569c16e
+      internalID: -8718669574743036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_68
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307fa0e22d6b8d4191999f310dd988a
+      internalID: -695893952446727381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682121358df811e4b822f350d38d8c60
+      internalID: -8713299602813094139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd97b695972c74eadf90fbc7d99d59
+      internalID: -5878460999168192356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51471aa1325de274681ece5b014b6eb2
+      internalID: -6558517551324921508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a248ddb6babfe40b646052d6edf76a
+      internalID: 6212249315639959520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeec35dc7bd4b94ba519e1bb7481788
+      internalID: -4772032399184516094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd5f3b64537174ca89316a8ae363c1
+      internalID: 8647925170361428653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_75
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee791285f7cfbf4bb816835e664cb5a
+      internalID: 4382470639831449810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_76
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738a78640afa7542be2680894888dbe
+      internalID: -5703062940649972088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles_NonColliding_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358dfe7d3c3fbfe4b9d092ed969a6761
+      internalID: 3080033843882686710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4bda8b39b2f9934f804133216360d16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1899 @@
+fileFormatVersion: 2
+guid: df1c8f4fc0235ce4a871e32fc4199ec6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8872544692595253095
+    second: TreesNonColliding_0
+  - first:
+      213: -2459125296295275996
+    second: TreesNonColliding_1
+  - first:
+      213: -6376837959969597452
+    second: TreesNonColliding_2
+  - first:
+      213: -8741289628730763836
+    second: TreesNonColliding_3
+  - first:
+      213: -5413823189656110489
+    second: TreesNonColliding_4
+  - first:
+      213: -4127797060371305141
+    second: TreesNonColliding_5
+  - first:
+      213: 2277849368124743130
+    second: TreesNonColliding_6
+  - first:
+      213: 6590841751467300641
+    second: TreesNonColliding_7
+  - first:
+      213: -1710233888108867971
+    second: TreesNonColliding_8
+  - first:
+      213: -7226434885326569555
+    second: TreesNonColliding_9
+  - first:
+      213: 4305847021464273538
+    second: TreesNonColliding_10
+  - first:
+      213: -8069842928606714553
+    second: TreesNonColliding_11
+  - first:
+      213: 8201031891195217000
+    second: TreesNonColliding_12
+  - first:
+      213: 7017829680927180703
+    second: TreesNonColliding_13
+  - first:
+      213: -1010945713489960879
+    second: TreesNonColliding_14
+  - first:
+      213: 2941876963909863787
+    second: TreesNonColliding_15
+  - first:
+      213: -5132261180782316526
+    second: TreesNonColliding_16
+  - first:
+      213: 4197561328574528432
+    second: TreesNonColliding_17
+  - first:
+      213: 3676439276039276397
+    second: TreesNonColliding_18
+  - first:
+      213: -1004940608731598389
+    second: TreesNonColliding_19
+  - first:
+      213: -8397884264950709847
+    second: TreesNonColliding_20
+  - first:
+      213: 1331306256094350001
+    second: TreesNonColliding_21
+  - first:
+      213: 1820872295703083637
+    second: TreesNonColliding_22
+  - first:
+      213: 4652835259498212541
+    second: TreesNonColliding_23
+  - first:
+      213: 3135464155427661752
+    second: TreesNonColliding_24
+  - first:
+      213: -4468791031211707250
+    second: TreesNonColliding_25
+  - first:
+      213: -5775467388973196905
+    second: TreesNonColliding_26
+  - first:
+      213: -48974198816580034
+    second: TreesNonColliding_27
+  - first:
+      213: -5996890877304068065
+    second: TreesNonColliding_28
+  - first:
+      213: 3667510054865508853
+    second: TreesNonColliding_29
+  - first:
+      213: -6185881340435884201
+    second: TreesNonColliding_30
+  - first:
+      213: -2734890875724842796
+    second: TreesNonColliding_31
+  - first:
+      213: 4413682249594643588
+    second: TreesNonColliding_32
+  - first:
+      213: 5626035799863148120
+    second: TreesNonColliding_33
+  - first:
+      213: 5482513813320912785
+    second: TreesNonColliding_34
+  - first:
+      213: 8291890625447328061
+    second: TreesNonColliding_35
+  - first:
+      213: -8204000363293331876
+    second: TreesNonColliding_36
+  - first:
+      213: -9148767877082989947
+    second: TreesNonColliding_37
+  - first:
+      213: -9105351830709593601
+    second: TreesNonColliding_38
+  - first:
+      213: 2543717092701590341
+    second: TreesNonColliding_39
+  - first:
+      213: 2737401676787687573
+    second: TreesNonColliding_40
+  - first:
+      213: -3663450560016788424
+    second: TreesNonColliding_41
+  - first:
+      213: 563452848239244268
+    second: TreesNonColliding_42
+  - first:
+      213: 8848356206706037973
+    second: TreesNonColliding_43
+  - first:
+      213: -6242793777259313092
+    second: TreesNonColliding_44
+  - first:
+      213: -8853473819884285963
+    second: TreesNonColliding_45
+  - first:
+      213: 7314716087452649414
+    second: TreesNonColliding_46
+  - first:
+      213: 3737623515363841578
+    second: TreesNonColliding_47
+  - first:
+      213: 5841666050830962275
+    second: TreesNonColliding_48
+  - first:
+      213: -1669062962392570838
+    second: TreesNonColliding_49
+  - first:
+      213: 4580344730605309429
+    second: TreesNonColliding_50
+  - first:
+      213: 7452686624368706959
+    second: TreesNonColliding_51
+  - first:
+      213: -7247119435783218827
+    second: TreesNonColliding_52
+  - first:
+      213: -3656139548842921726
+    second: TreesNonColliding_53
+  - first:
+      213: -370822492413176964
+    second: TreesNonColliding_54
+  - first:
+      213: 616618794878329669
+    second: TreesNonColliding_55
+  - first:
+      213: -4955377905031521446
+    second: TreesNonColliding_56
+  - first:
+      213: 8396596757949326101
+    second: TreesNonColliding_57
+  - first:
+      213: -8692952942845600254
+    second: TreesNonColliding_58
+  - first:
+      213: 5335207993097669360
+    second: TreesNonColliding_59
+  - first:
+      213: -8043391144853522228
+    second: TreesNonColliding_60
+  - first:
+      213: -1169791213555634949
+    second: TreesNonColliding_61
+  - first:
+      213: -8806118231143672231
+    second: TreesNonColliding_62
+  - first:
+      213: 570514548059949092
+    second: TreesNonColliding_63
+  - first:
+      213: 5668854024616811968
+    second: TreesNonColliding_64
+  - first:
+      213: -7905082760437499654
+    second: TreesNonColliding_65
+  - first:
+      213: -4931416166121642395
+    second: TreesNonColliding_66
+  - first:
+      213: 89328522575080272
+    second: TreesNonColliding_67
+  - first:
+      213: 4767764291193751779
+    second: TreesNonColliding_68
+  - first:
+      213: -1813982132915850865
+    second: TreesNonColliding_69
+  - first:
+      213: -1550479934064623419
+    second: TreesNonColliding_70
+  - first:
+      213: 6672643350886407892
+    second: TreesNonColliding_71
+  - first:
+      213: -7801825144028089320
+    second: TreesNonColliding_72
+  - first:
+      213: 4237826822199623559
+    second: TreesNonColliding_73
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreesNonColliding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa5385305014f45ab3f8f6a103ab71
+      internalID: 8872544692595253095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf823c56292b44c8c608f398b9f7b0
+      internalID: -2459125296295275996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082356811ea9a14dae6b700d118cc59
+      internalID: -6376837959969597452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834276eb1a39d0940b65a2f0d9588aae
+      internalID: -8741289628730763836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db99d9450ed6b04ba815af505dbf88d
+      internalID: -5413823189656110489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde326ba63fa7648a03aac1f2a790bf
+      internalID: -4127797060371305141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31409fedcbe4e4791e242666536e8f
+      internalID: 2277849368124743130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bd90273808364290e7a5065d2e223
+      internalID: 6590841751467300641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9e5345f0e13f4cac000eeb92d765c
+      internalID: -1710233888108867971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a63f7e94d18d498e5a46b61a3806d
+      internalID: -7226434885326569555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfee4851472aca40908430212e03020
+      internalID: 4305847021464273538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9223596e68e5241b115a3079d8b739
+      internalID: -8069842928606714553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27352ef2619a204c80b31c9980cb189
+      internalID: 8201031891195217000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ceab5fbb0829489e05e319d954c6b
+      internalID: 7017829680927180703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c714bde62a3f4ab0c7457941668b1
+      internalID: -1010945713489960879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45894f3fbb315484987a021005ea2c6a
+      internalID: 2941876963909863787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bad0f27b48e2145a6b4f83965705c7
+      internalID: -5132261180782316526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0946b9b07bace964081da4f6e02e3d87
+      internalID: 4197561328574528432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4086014fa87c9845a4d387113f85b9d
+      internalID: 3676439276039276397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852badeed39e45b4d9542a8539dbb42a
+      internalID: -1004940608731598389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df12dbc07995c14aa53c52279b80b85
+      internalID: -8397884264950709847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba9d05fe380c014d9e35f99acc58b29
+      internalID: 1331306256094350001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ebf53784f70742babb2ef0be607aa
+      internalID: 1820872295703083637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c97d1898568941ab399f7f84f6000
+      internalID: 4652835259498212541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fb4777f5e079f4e8263eb251a2e05a
+      internalID: 3135464155427661752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8e5e60626ada4eafddb16aeec4e77
+      internalID: -4468791031211707250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d75504677dec409094a9016514935
+      internalID: -5775467388973196905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f32ca6ad501334a8eda4d593541f4c
+      internalID: -48974198816580034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed1b9a094d1cad4383e26f7c9d9f276
+      internalID: -5996890877304068065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdb0d670cfd4347813f6fec610950f
+      internalID: 3667510054865508853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf37864f66c0cb46bb8117e85ddfdee
+      internalID: -6185881340435884201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96872c91624da542b9fbe6552640a27
+      internalID: -2734890875724842796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35af4fe2349ac64899b084bf8112aa4
+      internalID: 4413682249594643588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932910b6f32320d42bbb60f934b83f52
+      internalID: 5626035799863148120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 138
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51477afd0ffb14f9844220c5000b85
+      internalID: 5482513813320912785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f78f2cd8da6d4897673082d3a5e60
+      internalID: 8291890625447328061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a4bc7f03d0324db2078fd599d9074
+      internalID: -8204000363293331876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f902dc351d37345bded9389ff761fe
+      internalID: -9148767877082989947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd77b3ee7e4644381fa102ae1fb8a0
+      internalID: -9105351830709593601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b24e5d72bb1944db296ac7a4aa07bf
+      internalID: 2543717092701590341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbe77a9c48d3d14689511b8b1e1409d
+      internalID: 2737401676787687573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450f28ac7b12a5043bcffe98b8496222
+      internalID: -3663450560016788424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e6e986c3c4bde4484c591d7dfb207b
+      internalID: 563452848239244268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb55bd1893b24b4baa23b0454bf5bbf
+      internalID: 8848356206706037973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff44802ff507040a8a29a24550066a
+      internalID: -6242793777259313092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f025fa9fa914cd441a9bb66f853ac288
+      internalID: -8853473819884285963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa164e15c2e2bb4a93ee9cd498ccb81
+      internalID: 7314716087452649414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a9950d67a32043b0194e17b73fae8
+      internalID: 3737623515363841578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cbb290f1d9b0746aa130c793b30c0f
+      internalID: 5841666050830962275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b77ac437325f649b6be10cb4ab23da
+      internalID: -1669062962392570838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8ac82b51669dd458eae2cb775ee6b6
+      internalID: 4580344730605309429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33c9b737cf8574c85ca19c014e7e7b
+      internalID: 7452686624368706959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc19f10289520549ba3e4fff778484d
+      internalID: -7247119435783218827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b060e63c50799146a938f7c0eaaa93b
+      internalID: -3656139548842921726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5e23745b6814f4c9ebb899d60e0b36
+      internalID: -370822492413176964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ba361c54cacf4095bc918fe426df2
+      internalID: 616618794878329669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33c7116f6de10498d854b993c6af69
+      internalID: -4955377905031521446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9babfbdc279244e952068948350baf
+      internalID: 8396596757949326101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b11d97d205126940b0aed258a27935e
+      internalID: -8692952942845600254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef848365f828bc4bb60857c8468debc
+      internalID: 5335207993097669360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f805c76686198d4f8b2cfc11636d44a
+      internalID: -8043391144853522228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe43eacb8836b4a9756f10defd4ef6
+      internalID: -1169791213555634949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734a927adcfcad4d9ff37feff11ef1e
+      internalID: -8806118231143672231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d2cecc47a6fb4b8897ecec7248d0d
+      internalID: 570514548059949092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dd6cdaa76567545a170f2f3f155c0f
+      internalID: 5668854024616811968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3258f40330afab4a8aed72c5c72b732
+      internalID: -7905082760437499654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef2b15ef5d849c428078d32d35d42bd
+      internalID: -4931416166121642395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648a757c5c483548ac8a0fda1d94ecb
+      internalID: 89328522575080272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6f18b86779664e95cd1343e017611
+      internalID: 4767764291193751779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899ebf4a1f5083409434660402caf09
+      internalID: -1813982132915850865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa070e7584d8c4438528494dccd448c
+      internalID: -1550479934064623419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8694057620c3b9b4286e334cd8765abc
+      internalID: 6672643350886407892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6589579c2b0643ae8827c5abe8336
+      internalID: -7801825144028089320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreesNonColliding_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4031a0630b5f9a4f964cd33b939f0aa
+      internalID: 4237826822199623559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e681f61622665844adfd177c91dfb51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
