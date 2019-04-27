@@ -30,6 +30,8 @@ public class CharacterController2D : MonoBehaviour
     public BoolEvent OnCrouchEvent;
     private bool m_wasCrouching = false;
 
+    //private float moveInput;
+
     private void Awake()
     {
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
@@ -43,6 +45,9 @@ public class CharacterController2D : MonoBehaviour
 
     private void FixedUpdate()
     {
+        //moveInput = Input.GetAxis("Horizontal");
+        //Debug.Log(moveInput);
+
         bool wasGrounded = m_Grounded;
         m_Grounded = false;
 
