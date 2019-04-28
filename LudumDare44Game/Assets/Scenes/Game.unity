@@ -5581,8 +5581,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.05556202, y: -0.052752018}
-  m_Size: {x: 1.0403605, y: 1.7225914}
+  m_Offset: {x: 0.037764072, y: -0.25149834}
+  m_Size: {x: 0.86238, y: 1.1827137}
   m_Direction: 0
 --- !u!50 &165264309
 Rigidbody2D:
@@ -24535,7 +24535,7 @@ Tilemap:
   - first: {x: -2, y: -4, z: 0}
     second:
       m_TileIndex: 10
-      m_TileSpriteIndex: 36
+      m_TileSpriteIndex: 40
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -24706,7 +24706,7 @@ Tilemap:
   - first: {x: 40, y: -4, z: 0}
     second:
       m_TileIndex: 25
-      m_TileSpriteIndex: 29
+      m_TileSpriteIndex: 36
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -28716,9 +28716,8 @@ Tilemap:
   - m_RefCount: 5
     m_Data: {fileID: -468736844659815546, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
       type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -8819799181675531090, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
-      type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 8
     m_Data: {fileID: 5889756425743153547, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
       type: 3}
@@ -28737,7 +28736,7 @@ Tilemap:
     m_Data: {fileID: -5843893238281485910, guid: 69cceee0f4837e946ae70eae7104a5bb,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -8632382449016789483, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
+    m_Data: {fileID: -8819799181675531090, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
       type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 97909731865651458, guid: 8bebb9cbbf5534d4da5e0e087d3370ca, type: 3}
@@ -28747,8 +28746,9 @@ Tilemap:
   - m_RefCount: 5
     m_Data: {fileID: -8127611986502061734, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: -8632382449016789483, guid: 8bebb9cbbf5534d4da5e0e087d3370ca,
+      type: 3}
   m_TileMatrixArray:
   - m_RefCount: 1998
     m_Data:
