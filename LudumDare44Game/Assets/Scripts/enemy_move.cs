@@ -6,15 +6,26 @@ public class enemy_move : MonoBehaviour
 {
     public float speed;
     public bool moveRight;
+
+    public int health;
+
+    Animator enemyAnim;
+    
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        enemyAnim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (health <= 0)
+        {
+            enemyAnim.Play("Slime_Death");
+            //Destroy(gameObject);
+        }
 
         if (moveRight)
         {
@@ -27,6 +38,12 @@ public class enemy_move : MonoBehaviour
             transform.localScale = new Vector2(-2, 2);
         }
 
+    }
+
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+        Debug.Log("damage TAKEN!");
     }
 
     private void OnTriggerEnter2D(Collider2D other)

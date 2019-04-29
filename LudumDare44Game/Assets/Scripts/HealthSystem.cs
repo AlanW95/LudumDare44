@@ -13,10 +13,14 @@ public class HealthSystem : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
 
+    public int playerHealth;
+
+    Animator anim;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -25,11 +29,12 @@ public class HealthSystem : MonoBehaviour
         if (health > numOfHearts)
         {
             health = numOfHearts;
+            playerHealth = numOfHearts; //inherits from the CharacterController class
         }
 
         for (int i = 0; i < hearts.Length; i++)
         {
-            if (i < health)
+            if (i < health && i < playerHealth)
             {
                 hearts[i].sprite = fullHeart;
             } else
@@ -44,6 +49,22 @@ public class HealthSystem : MonoBehaviour
             {
                 hearts[i].enabled = false;
             }
+        }
+
+        if (playerHealth == 0)
+        {
+            //play death animation
+            anim.Play("Player_Die");
+
+            //retry screen etc
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("TurningPoint"))
+        {
+            playerHealth -= 1;
         }
     }
 }
