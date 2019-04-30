@@ -55,7 +55,7 @@ public class HealthSystem : MonoBehaviour
         {
             //play death animation
             anim.Play("Player_Die");
-
+            Application.LoadLevel(Application.loadedLevel);
             //retry screen etc
         }
     }
