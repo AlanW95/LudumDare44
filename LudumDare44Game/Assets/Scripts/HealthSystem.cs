@@ -62,9 +62,10 @@ public class HealthSystem : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("TurningPoint"))
+        if (collision.gameObject.CompareTag("Slime"))
         {
             playerHealth -= 1;
+            
         }
     }
 }

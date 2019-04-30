@@ -5,14 +5,17 @@ using UnityEngine;
 public class enemy_move : MonoBehaviour
 {
     public float speed;
-    public bool moveRight;
+    public float distance;
 
     public int health;
 
     public GameObject deathEffect;
 
+    private bool movingRight = true;
+
     Animator enemyAnim;
-    
+
+    public Transform groundDetection;
 
     // Start is called before the first frame update
     void Start()
@@ -23,21 +26,27 @@ public class enemy_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        transform.Translate(Vector2.right * speed * Time.deltaTime);
+
+        RaycastHit2D groundInfo = Physics2D.Raycast(groundDetection.position, Vector2.down, distance);
+        if (groundInfo.collider == false)
+        {
+            if (movingRight == true)
+            {
+                transform.eulerAngles = new Vector3(0, -150, 0);
+                movingRight = false;
+            }
+            else
+            {
+                transform.eulerAngles = new Vector3(0, 0, 0);
+            }
+        }
+
         if (health <= 0)
         {
             //enemyAnim.Play("Slime_Death");
             Destroy(gameObject);
-        }
-
-        if (moveRight)
-        {
-            transform.Translate(2 * Time.deltaTime * speed, 0, 0);
-            transform.localScale = new Vector2(2, 2);
-        }
-        else
-        {
-            transform.Translate(-2 * Time.deltaTime * speed, 0, 0);
-            transform.localScale = new Vector2(-2, 2);
         }
 
     }
@@ -48,20 +57,4 @@ public class enemy_move : MonoBehaviour
         health -= damage;
         Debug.Log("damage TAKEN!");
     }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("TurningPoint"))
-        {
-            if (moveRight)
-            {
-                moveRight = false;
-            }
-            else
-            {
-                moveRight = true;
-            }
-        }
-    }
-
 }
