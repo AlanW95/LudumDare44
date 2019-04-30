@@ -9,6 +9,8 @@ public class enemy_move : MonoBehaviour
 
     public int health;
 
+    public GameObject deathEffect;
+
     Animator enemyAnim;
     
 
@@ -23,8 +25,8 @@ public class enemy_move : MonoBehaviour
     {
         if (health <= 0)
         {
-            enemyAnim.Play("Slime_Death");
-            //Destroy(gameObject);
+            //enemyAnim.Play("Slime_Death");
+            Destroy(gameObject);
         }
 
         if (moveRight)
@@ -42,6 +44,7 @@ public class enemy_move : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        Instantiate(deathEffect, transform.position, Quaternion.identity);
         health -= damage;
         Debug.Log("damage TAKEN!");
     }
