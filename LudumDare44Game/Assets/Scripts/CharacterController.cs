@@ -21,6 +21,11 @@ public class CharacterController : MonoBehaviour
     private int extraJumps;
     public int extraJumpsValue;
 
+    public GameObject landingEffect;
+    public GameObject jumpSound;
+
+    private bool spawnDust;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -53,6 +58,19 @@ public class CharacterController : MonoBehaviour
             extraJumps = extraJumpsValue;
         }
 
+        if(isGrounded == true)
+        {
+            if(spawnDust == true)
+            {
+                Instantiate(landingEffect, groundCheck.position, Quaternion.identity);
+                spawnDust = false;
+            }
+        }
+        else
+        {
+            spawnDust = true;
+        }
+
         if (Input.GetKeyDown(KeyCode.UpArrow) && extraJumps > 0)
         {
             rb.velocity = Vector2.up * jumpForce;
@@ -60,6 +78,8 @@ public class CharacterController : MonoBehaviour
         }   else if (Input.GetKeyDown(KeyCode.UpArrow) && extraJumps == 0 && isGrounded == true)
         {
             rb.velocity = Vector2.up * jumpForce;
+            Instantiate(landingEffect, groundCheck.position, Quaternion.identity);
+            Instantiate(jumpSound, transform.position, Quaternion.identity);
         }
     }
 
