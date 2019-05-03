@@ -22,13 +22,16 @@ public class CharacterController : MonoBehaviour
     public int extraJumpsValue;
 
     public GameObject landingEffect;
-    public GameObject jumpSound;
+
+    private AudioSource source;
+    public AudioClip jumpingSound;
 
     private bool spawnDust;
 
     // Start is called before the first frame update
     void Start()
     {
+        source = GetComponent<AudioSource>();
         extraJumps = extraJumpsValue;
         rb = GetComponent<Rigidbody2D>();
     }
@@ -79,7 +82,8 @@ public class CharacterController : MonoBehaviour
         {
             rb.velocity = Vector2.up * jumpForce;
             Instantiate(landingEffect, groundCheck.position, Quaternion.identity);
-            Instantiate(jumpSound, transform.position, Quaternion.identity);
+            source.clip = jumpingSound;
+            source.Play();
         }
     }
 
